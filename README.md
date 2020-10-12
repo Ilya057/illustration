@@ -1,1 +1,1 @@
-# illustration
+# initial-repository
